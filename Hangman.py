@@ -2,6 +2,9 @@
 ## Name: Andrew Ayers
 ## April 10th, 2017
 
+#Assingment was for partial functionality, hence the last method
+#being commented out
+
 import random
 
 def openWords(infile):
